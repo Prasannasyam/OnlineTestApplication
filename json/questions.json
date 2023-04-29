@@ -1,0 +1,44 @@
+[
+  {
+    "question": "In which of the following formats does MongoDB store data?",
+    "choice1": "JSON",
+    "choice2": "BSON",
+    "choice3": "XML",
+    "choice4": "HTML",
+    "answer": 2
+  },
+  {
+    "question": "Which among the following is the core server of MongoDB?",
+    "choice1": "Mongos",
+    "choice2": "Config server",
+    "choice3": "Routing server",
+    "choice4": "mongod",
+    "answer": 4
+  },
+  {
+    "question": "Which among following is an RDBMS row in MongoDB?",
+    "choice1": "Database",
+    "choice2":"Schema",
+    "choice3": "Collection",
+    "choice4": "Index",
+    "answer": 3
+  },
+  {
+    "question": "Which of the following method either inserts a document or update the existing document?",
+    "choice1": "Insert()",
+    "choice2": "Save()",
+    "choice3": "Update()",
+    "choice4": "Bulk Insert()",
+    "answer": 2
+  },
+  
+  {
+    "question": "Which of the following method is used when you have more than one possible value to match for a single key?",
+    "choice1": "Cursor",
+    "choice2": "$or",
+    "choice3": "$in",
+    "choice4": "$all",
+    "answer": 3
+  }
+  
+] 
